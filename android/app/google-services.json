@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "646949033633",
+    "firebase_url": "https://thermal-origin-425102-c7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thermal-origin-425102-c7",
+    "storage_bucket": "thermal-origin-425102-c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646949033633:android:526ed796cf8b208d0702e0",
+        "android_client_info": {
+          "package_name": "com.example.albaypark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPITXRCDb87RLV6-H5WwVBgHp3zSaeto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3154 @@
+{
+  "accesstoken": "ya29.c.c0ASRK0GZ70Vk9C7_j7BJdc1R3cSEDYWqo0fAWJKtHGGykJiFmKiet0dISQL7H9IjCYzi9FyMLpz5WoRGipcpnd9a2rhr9vkyWvKC84EJK64xAfKVUNHf7cNxzUm57yMVnMyg83F8OA6pnhcrzctvFtMcROpOC6uzVBsdX8e3lURDVgeYgl-dXeMohvm9EZ_MnZPXP9prKZ5wTYD1Nhk7wFiYB-FQPifa9HVGiL6nMAntnU-h-dAU_Nh5lRZ-EvwfmofcoZkxk290bdaZQ1n_5JU0wY9kARkmUFx9Y0YxxbUPuDIk2PkHjythMrHEJeIuTL79i1HsgbHN1Z_aC5OZRHEZehqL9yTH_bCDOAIuKW1EspVVtDOTgChMH384C25ZfMRhfp17YtBy1ItzMBgF12-nRVUVozQgu_yYm722w_WMYfyXB1Z5FXuFUi67cV57zF0qOdBF-wyWi7iJsiM4J6a9iXdiWFFOR869if2xaB2rbV8wIzJmVobt4p9gYdeyFg_JRwzzz3hU43t7I0F2nce7pFRI284ba9cOn0BO1r18ddfjSwBdkh0Zrfz15gXUjtswSzkvhfsf4-9zgkUj474iaI-97c5lBxbxFt-o-eyr5B2ae77cnYFMXmmpJ_3dayyic7fhevmRgvaR3v00ocxhh94nugjp9dxh-XY0-qW-yeFslF6iZYjw0ud-beR4-5pqORBbIj46rniVb9uh-syrbZIMMcdawzSy375ZgieSt69Bbfc90rlna9vbof-e_7kxXR_YaSMh8jlUjOwtfOzergcj5Sk04h1zaYXrj9Xl8Jj6riJnun_RXpoc6wo_napMllFojY5yO9aOq_r3rYrymcJBpuf0Ij7dVsQ0tqkb2czuXOo6c9ojlYhdympeI48yaa5MgYd_cFYY7ybjxQ86x13SBry3n2Ohi2u0MpX0Y9c6VqeF8RV0oSMln8y_8rBj50wYefQoev0ebWd21eVh5VmqI7hwFxgmsQ1efb19noZFOsqQJaQ7",
+    "animals": {
+      "-NdKwcPI3kRf5": {
+        "name": "African Grey Parrot",
+        "scientificName": "Psittacus erithacus",
+        "IUCNRedList": "EN",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://d2zp5xs5cp8zlg.cloudfront.net/image-51185-800.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf13",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf10": {
+        "name": "Bantam Chicken",
+        "scientificName": "Gallus gallus domesticus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 20,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://nutrenaworld.com/wp-content/uploads/2024/01/AdobeStock_124238149-scaled-1.jpeg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq1"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf14",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf14": {
+        "name": "Blue-and-gold Macaw",
+        "scientificName": "Ara ararauna",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.thesprucepets.com/thmb/MRW3HBEt6CvK7uZM5A1Oe6sKQs0=/5194x0/filters:no_upscale():strip_icc()/GettyImages-164845806-58a6f2975f9b58a3c919eb94.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq2"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf15",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf16": {
+        "name": "Brahminy Kite",
+        "scientificName": "Haliastur indus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 18,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://live.staticflickr.com/65535/49700167513_a0ecddafa7_b.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq3"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf16",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf18": {
+        "name": "Cassowary, Northern",
+        "scientificName": "Casuarius unappendiculatus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://i.pinimg.com/originals/a3/94/05/a39405a84d175441a4b2d8bb452c9878.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq4"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf17",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf20": {
+        "name": "Cassowary, Southern",
+        "scientificName": "Casuarius casuarius",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.martinwillisphotographs.com.au/files/media/thumbcache/7cf/86c/add/southern-cassowary-mrw5366.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq5"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf18",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf22": {
+        "name": "Domestic Pigeon",
+        "scientificName": "Columba livia domestica",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 20,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://www.naturephoto-cz.com/photos/birds/domestic-pigeon-136694.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq6"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf19",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf24": {
+        "name": "Egyptian Goose",
+        "scientificName": "Alopochen aegyptiaca",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://i.pinimg.com/originals/48/e0/d7/48e0d7fb05c3546f6e233bb611f976ae.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq7"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf20",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf26": {
+        "name": "Guineafowl",
+        "scientificName": "Numida meleagris",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 7,
+        "status": "Healthy",
+        "isUrgent": false,
+        "image": "https://www.heritageacresmarket.com/wp-content/uploads/2021/05/Depositphotos_35840079_xl-2015-2048x1365.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq8"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf21",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf30": {
+        "name": "Fancy Chicken",
+        "scientificName": "Gallus gallus domesticus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 3,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://i.pinimg.com/originals/64/d4/f3/64d4f371cb8b0a702a0a8ace6bb99c02.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq9"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf22",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf32": {
+        "name": "Grass Owl",
+        "scientificName": "Tyto longimembris",
+        "IUCNRedList": "EN",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://www.mindenpictures.com/cache/pcache2/00551119.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq10"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf23",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf34": {
+        "name": "Great White Pelican",
+        "scientificName": "Pelecanus onocrotalus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 3,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/9/94/Great_White_Pelican%2C_Etosha_National_Park%2C_Namibia.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq11"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf24",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf36": {
+        "name": "Lady Amherst’s Pheasant",
+        "scientificName": "Chrysolophus amherstiae",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 2,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://images.squarespace-cdn.com/content/v1/55cbd3cde4b01a54c901d55b/1484781923426-4ZYTR5SSHI8NHE12PKFM/ke17ZwdGBToddI8pDm48kPIWxhR0J8TOmkw8gjtpUdh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kMlYkjvFlctRdmAM11rxFTb6EvHVcuRCsw9z2ER5CHYMqbANK946mnhexQNPxvfUQ/image-asset.jpeg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq12"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf25",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf38": {
+        "name": "Large-billed Crow",
+        "scientificName": "Corvus philippinus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://www.beyourownbirder.com/wp-content/uploads/2020/03/corvid6-large-billed-crow.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq13"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf26",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf40": {
+        "name": "Marsh Harrier",
+        "scientificName": "Circus spilonotus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://www.naturephoto-cz.com/fullsize/sevcik/marsh-harrier--44x_pochop_dsp7709.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq14"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf27",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf42": {
+        "name": "Nicobar Pigeon",
+        "scientificName": "Caloenas nicobarica",
+        "IUCNRedList": "NT",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://i.pinimg.com/originals/de/9a/86/de9a865619f20ae334e508c570984fa0.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq15"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf28",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf44": {
+        "name": "Orange-winged Amazon Parrot",
+        "scientificName": "Amazona amazonica",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://thumbs.dreamstime.com/b/orange-winged-amazon-parrot-amazona-amazonica-close-up-155128147.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq16"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf29",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf46": {
+        "name": "Ostrich",
+        "scientificName": "Struthio camelus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 2,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://www.animalfactguide.com/wp-content/uploads/2013/10/ostrich2.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq17"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf30",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf48": {
+        "name": "Peafowl",
+        "scientificName": "Pavo cristatus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 16,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://bubobirding.com/wp-content/uploads/2020/03/Indian-Peafowl_peacock-536478-1536x1152.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq18"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf31",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf50": {
+        "name": "Pekin Duck",
+        "scientificName": "Anas platyrhynchos",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://rurallivingtoday.com/wp-content/uploads/IMG_7135_original-1-2048x1536.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq19"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf32",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf52": {
+        "name": "Philippine eagle-owl",
+        "scientificName": "Ketupa Philippenisis",
+        "IUCNRedList": "VU",
+        "category": "Avian",
+        "count": 5,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.birdingphilippines.com/wp-content/gallery/birds-from-luzon/philippine-eagle-owl.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq20"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf33",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf54": {
+        "name": "Philippine Hawk-eagle",
+        "scientificName": "Nisaetus Philippenisis",
+        "IUCNRedList": "EN",
+        "category": "Avian",
+        "count": 13,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://leesbirdblog.files.wordpress.com/2016/07/acc-acci-philippine-hawk-eagle-nisaetus-philippensis-c2a9flickr-billy-lopue.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq21"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf34",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf56": {
+        "name": "Philippine Serpent Eagle",
+        "scientificName": "Spilornis holospilus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 14,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/NAcCgGpipWiZUE60VdhKCUl7Xos=/fit-in/1072x0/https://tf-cmsv2-photocontest-smithsonianmag-prod-approved.s3.amazonaws.com/3bef92c3-4d76-4738-bba6-fd786cea0958.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq22"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf35",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf58": {
+        "name": "Red-golden Pheasant",
+        "scientificName": "Chrysolosphus pictus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 2,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://i.pinimg.com/originals/03/e1/14/03e1143978df80af3f25ccb59da38b71.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq23"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf36",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf60": {
+        "name": "Rufous Hornbill",
+        "scientificName": "Buceros hvdrocorax",
+        "IUCNRedList": "VU",
+        "category": "Avian",
+        "count": 2,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.cebusafari.ph/wp-content/uploads/2019/07/Mindanao-rufous-hornbill.png",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq24"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf37",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf62": {
+        "name": "Rufous Ninht Heron",
+        "scientificName": "Nyctlcorax caledonicus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 36,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://ssl.c.photoshelter.com/img-get/I0000njc0uEGrf_s/s/850/680/GDeichmann-Wildlife0307.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq25"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf38",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf64": {
+        "name": "Silver Pheasant",
+        "scientificName": "lophura nycthemera",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 2,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.thealexandriazoo.com/images/animals/SilverPheasant.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq26"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf39",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf66": {
+        "name": "Tarictic Hornbill",
+        "scientificName": "Penelopides Panini",
+        "IUCNRedList": "EN",
+        "category": "Avian",
+        "count": 2,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://animalia-life.club/data_images/visayan-tarictic-hornbill/visayan-tarictic-hornbill3.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq27"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf40",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf68": {
+        "name": "Whistling Duck",
+        "scientificName": "Dendrocygna arcuata",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 3,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Whistling_duck_flight02_-_natures_pics-edit1.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq28"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf41",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf70": {
+        "name": "White-breasted Sea Eagle",
+        "scientificName": "Ithyophaga Leucogasted",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 4,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://lombokwildlifepark.com/wp-content/uploads/2022/08/whitebelliedseaeagle-1.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq29"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf42",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf72": {
+        "name": "Yellow-golden peasant",
+        "scientificName": "Phasianus pictus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 16,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.uberchicranch.com/system/images/Uberchic%20Ranch%20SLIDER%201200x600%20Yellow%20Golden%20Male%20Forest.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq30"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf43",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf74": {
+        "name": "Yokohama Chicken",
+        "scientificName": "Gallus gallus domesticus",
+        "IUCNRedList": "LC",
+        "category": "Avian",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://livestockconservancy.org/wp-content/uploads/2022/08/red-shouldered-yokohama-cockerel-2.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq31"],
+        "gallery": ["-NdKwcPI3kRf9"],
+        "statistics": "-NdKwcPI3kRf44",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf75": {
+        "name": "Hedgehog",
+        "scientificName": "Erinaceus",
+        "IUCNRedList": "LC",
+        "category": "Mammal",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/8/84/European_hedgehog_(Erinaceus_europaeus).jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq32"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf45",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf76": {
+        "name": "Long-tailed Macaque/Monkey",
+        "scientificName": "Mасаса fascicularis philippensis",
+        "IUCNRedList": "NT",
+        "category": "Mammal",
+        "count": 19,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://seancrane.com/blog/wp-content/uploads/2016/12/long_tailed_macaque_11.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq33"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf46",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf77": {
+        "name": "Miniature Horse",
+        "scientificName": "Equus ferus caballus",
+        "IUCNRedList": "LC",
+        "category": "Mammal",
+        "count": 3,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/7/70/Miniature_horse.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq34"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf47",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf78": {
+        "name": "Native Pig",
+        "scientificName": "Sus scrofa domesticus",
+        "IUCNRedList": "LC",
+        "category": "Mammal",
+        "count": 2,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://3.bp.blogspot.com/-tZ30MU3QUeU/T86vaARmHwI/AAAAAAAAQeA/i_It_Vzi7lw/s1600/IMG_6674.JPG",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq35"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf48",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf79": {
+        "name": "Palawan Porcupine",
+        "scientificName": "Hystrix pumila",
+        "IUCNRedList": "VU",
+        "category": "Mammal",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://i.pinimg.com/736x/3b/f1/01/3bf10161ac5a4aecebddc4f23aa3d711--palawan-the-philippines.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq36"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf49",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf80": {
+        "name": "Palm Civet",
+        "scientificName": "Paradoxurus hermaphroditus",
+        "IUCNRedList": "LC",
+        "category": "Mammal",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://static.wixstatic.com/media/618ad6_e5c0e3f5d0304232b2fb10554603acd8~mv2_d_2197_2285_s_2.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq37"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf50",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf81": {
+        "name": "Philippine Deer",
+        "scientificName": "Rusa marianna",
+        "IUCNRedList": "VU",
+        "category": "Mammal",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.newquayzoo.org.uk/wp-content/uploads/2021/06/Philippine-spotted-deer.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq38"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf51",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf82": {
+        "name": "Philippine Pony",
+        "scientificName": "Equus ferus caballus",
+        "IUCNRedList": "LC",
+        "category": "Mammal",
+        "count": 5,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://farm1.staticflickr.com/120/276206344_6617003a65_z.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq39"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf52",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf83": {
+        "name": "Rabbit",
+        "scientificName": "Oryctolagus cuniculus",
+        "IUCNRedList": "LC",
+        "category": "Mammal",
+        "count": 12,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.thesprucepets.com/thmb/i6iEOzWC5j4i7XRB_C1u-le1kgU=/3890x2660/filters:fill(auto,1)/wild_rabbit_sergie_golyshev-56a4a9513df78cf772838f07.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq40"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf53",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf84": {
+        "name": "Southern Luzon Giant Cloud Rat",
+        "scientificName": "Phloeomys cumingi",
+        "IUCNRedList": "LC",
+        "category": "Mammal",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://zooinstitutes.com/img/animals/18/18776.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq41"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf54",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf85": {
+        "name": "St. Croix x Domestic Sheep",
+        "scientificName": "Ovis aries",
+        "IUCNRedList": "LC",
+        "category": "Mammal",
+        "count": 13,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://sheepcaretaker.com/wp-content/uploads/2022/07/St-Croix-Sheep-Image-1-1-768x597.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq42"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf55",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf86": {
+        "name": "Tiger",
+        "scientificName": "Panthera Tigris",
+        "IUCNRedList": "EN",
+        "category": "Mammal",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Siberischer_tiger_de_edit02.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq43"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf56",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf87": {
+        "name": "Warty Pig",
+        "scientificName": "Sus Philippensis",
+        "IUCNRedList": "VU",
+        "category": "Mammal",
+        "count": 2,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://www.yorkshirewildlifepark.com/media/iq0ezdeq/warty-pig-cr-sue-launders.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq44"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf57",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf88": {
+        "name": "Albino Burmese Python",
+        "scientificName": "Python bivittatus",
+        "IUCNRedList": "VU",
+        "category": "Reptile",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Albino_burmese_pythons.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq45"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf58",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf89": {
+        "name": "Asian Box Turtle",
+        "scientificName": "Cuora amboinensis",
+        "IUCNRedList": "EN",
+        "category": "Reptile",
+        "count": 47,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://turtlesurvival.org/wp-content/uploads/2023/07/Southeast-Asian-Box-Turtle_Cuora-amboinensis_Instagram_Jordan-Gray-sq.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq46"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf59",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf90": {
+        "name": "Burmese Python",
+        "scientificName": "Python bivittatus",
+        "IUCNRedList": "VU",
+        "category": "Reptile",
+        "count": 3,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Brooding_female_Python_molurus_bivittatus.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq47"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf60",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf91": {
+        "name": "Caiman, Spectacled",
+        "scientificName": "Caiman crocodilus",
+        "IUCNRedList": "LC",
+        "category": "Reptile",
+        "count": 3,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://cdn.britannica.com/64/255864-050-419DBB2A/adult-spectacled-caiman-bril-kaaiman-caiman-crocodilus.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq48"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf61",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf92": {
+        "name": "Common Snapping Turtle",
+        "scientificName": "Chelydra serpentina",
+        "IUCNRedList": "LC",
+        "category": "Reptile",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://d18lev1ok5leia.cloudfront.net/chesapeakebay/critters/_700x600_fit_center-center_none/Common-Snapping-Turtle-File4126.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq49"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf62",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf93": {
+        "name": "Common Iguana",
+        "scientificName": "Iguana iguana",
+        "IUCNRedList": "LC",
+        "category": "Reptile",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/8/84/European_hedgehog_(Erinaceus_europaeus).jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq50"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf63",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf94": {
+        "name": "Golden-thread Turtle",
+        "scientificName": "Mauremys sinensis",
+        "IUCNRedList": "CR",
+        "category": "Reptile",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://reptilesmagazine.com/wp-content/uploads/data-import/ebf5e957/golden-thread-turtle-shutterstock_370654712.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq51"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf64",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf95": {
+        "name": "Leopard Gecko",
+        "scientificName": "Eublepharis macularius",
+        "IUCNRedList": "LC",
+        "category": "Reptile",
+        "count": 1,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Eublepharis_macularius1.jpg/640px-Eublepharis_macularius1.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq52"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf65",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf96": {
+        "name": "Monitor Lizard",
+        "scientificName": "Varanus dalubhasa",
+        "IUCNRedList": "CR",
+        "category": "Reptile",
+        "count": 4,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://reptile-database.reptarium.cz/content/photo_rd_11/Varanus-dalubhasa-03000041541_01.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq53"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf66",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf97": {
+        "name": "Red-eared Slider Turtle",
+        "scientificName": "Trachemys scripta elegans",
+        "IUCNRedList": "CR",
+        "category": "Reptile",
+        "count": 36,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/RedEaredSlider05.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq54"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf67",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf98": {
+        "name": "Reticulated Python",
+        "scientificName": "Malayopython reticulatus",
+        "IUCNRedList": "LC",
+        "category": "Reptile",
+        "count": 8,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq55"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf68",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf99": {
+        "name": "Sailfin Lizard",
+        "scientificName": "Hydrosaurus pustulatus",
+        "IUCNRedList": "LC",
+        "category": "Reptile",
+        "count": 12,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://coffeeandcreatures.co.uk/wp-content/uploads/2019/02/90184023_m-1.jpg?w=1200",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq56"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf69",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      },
+      "-NdKwcPI3kRf100": {
+        "name": "Saltwater Crocodile",
+        "scientificName": "Crocodylus porosus",
+        "IUCNRedList": "LC",
+        "category": "Reptile",
+        "count": 3,
+        "status": "Healthy",
+        "isUrgent": false,
+        "lastCheckup": "2023-11-15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/SaltwaterCrocodile%28%27Maximo%27%29.jpg",
+        "remarks": ["-OD9KOXTwYbNg4I4G5oq57"],
+        "gallery": [],
+        "statistics": "-NdKwcPI3kRf70",
+        "NatureOfAcquisition": "Donated",
+        "AreaCageNumber": "B",
+        "APWPropertyIDNumber": ["15976"]
+      }
+    },
+    "statistics": {
+      "-NdKwcPI3kRf13": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf14": {
+        "Died": 0,
+        "Healthy": 20,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf15": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf16": {
+        "Died": 0,
+        "Healthy": 18,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf17": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf18": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf19": {
+        "Died": 0,
+        "Healthy": 20,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf20": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf21": {
+        "Died": 0,
+        "Healthy": 7,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf22": {
+        "Died": 0,
+        "Healthy": 3,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf23": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf24": {
+        "Died": 0,
+        "Healthy": 3,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf25": {
+        "Died": 0,
+        "Healthy": 2,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf26": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf27": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf28": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf29": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf30": {
+        "Died": 0,
+        "Healthy": 2,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf31": {
+        "Died": 0,
+        "Healthy": 16,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf32": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf33": {
+        "Died": 0,
+        "Healthy": 5,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf34": {
+        "Died": 0,
+        "Healthy": 13,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf35": {
+        "Died": 0,
+        "Healthy": 14,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf36": {
+        "Died": 0,
+        "Healthy": 2,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf37": {
+        "Died": 0,
+        "Healthy": 2,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf38": {
+        "Died": 0,
+        "Healthy": 36,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf39": {
+        "Died": 0,
+        "Healthy": 2,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf40": {
+        "Died": 0,
+        "Healthy": 2,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf41": {
+        "Died": 0,
+        "Healthy": 3,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf42": {
+        "Died": 0,
+        "Healthy": 4,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf43": {
+        "Died": 0,
+        "Healthy": 16,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf44": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf45": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf46": {
+        "Died": 0,
+        "Healthy": 19,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf47": {
+        "Died": 0,
+        "Healthy": 3,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf48": {
+        "Died": 0,
+        "Healthy": 2,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf49": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf50": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf51": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf52": {
+        "Died": 0,
+        "Healthy": 5,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf53": {
+        "Died": 0,
+        "Healthy": 12,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf54": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf55": {
+        "Died": 0,
+        "Healthy": 13,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf56": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf57": {
+        "Died": 0,
+        "Healthy": 2,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf58": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf59": {
+        "Died": 0,
+        "Healthy": 47,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf60": {
+        "Died": 0,
+        "Healthy": 3,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf61": {
+        "Died": 0,
+        "Healthy": 3,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf62": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf63": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf64": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf65": {
+        "Died": 0,
+        "Healthy": 1,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf66": {
+        "Died": 0,
+        "Healthy": 4,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf67": {
+        "Died": 0,
+        "Healthy": 36,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf68": {
+        "Died": 0,
+        "Healthy": 8,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf69": {
+        "Died": 0,
+        "Healthy": 12,
+        "Injured": 0,
+        "Isolated": 0
+      },
+      "-NdKwcPI3kRf70": {
+        "Died": 0,
+        "Healthy": 3,
+        "Injured": 0,
+        "Isolated": 0
+      }
+    },
+      "dailyTasks": {
+        "-NdKwcPI3kRf118": {
+          "animals": ["-NdKwcPI3kRf5"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf119": {
+          "animals": ["-NdKwcPI3kRf10"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf120": {
+          "animals": ["-NdKwcPI3kRf14"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf121": {
+          "animals": ["-NdKwcPI3kRf16"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf122": {
+          "animals": ["-NdKwcPI3kRf18"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf123": {
+          "animals": ["-NdKwcPI3kRf20"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf124": {
+          "animals": ["-NdKwcPI3kRf22"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf125": {
+          "animals": ["-NdKwcPI3kRf24"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf126": {
+          "animals": ["-NdKwcPI3kRf26"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf127": {
+          "animals": ["-NdKwcPI3kRf30"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf128": {
+          "animals": ["-NdKwcPI3kRf32"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf129": {
+          "animals": ["-NdKwcPI3kRf34"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf130": {
+          "animals": ["-NdKwcPI3kRf36"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf131": {
+          "animals": ["-NdKwcPI3kRf38"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf132": {
+          "animals": ["-NdKwcPI3kRf40"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf133": {
+          "animals": ["-NdKwcPI3kRf42"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf134": {
+          "animals": ["-NdKwcPI3kRf44"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf135": {
+          "animals": ["-NdKwcPI3kRf46"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf136": {
+          "animals": ["-NdKwcPI3kRf48"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf137": {
+          "animals": ["-NdKwcPI3kRf50"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf138": {
+          "animals": ["-NdKwcPI3kRf52"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf139": {
+          "animals": ["-NdKwcPI3kRf54"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf140": {
+          "animals": ["-NdKwcPI3kRf56"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf141": {
+          "animals": ["-NdKwcPI3kRf58"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf142": {
+          "animals": ["-NdKwcPI3kRf60"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf143": {
+          "animals": ["-NdKwcPI3kRf62"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf144": {
+          "animals": ["-NdKwcPI3kRf64"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf145": {
+          "animals": ["-NdKwcPI3kRf66"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf146": {
+          "animals": ["-NdKwcPI3kRf68"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf147": {
+          "animals": ["-NdKwcPI3kRf70"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf148": {
+          "animals": ["-NdKwcPI3kRf72"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf149": {
+          "animals": ["-NdKwcPI3kRf74"],
+          "assignedTo": "2xkLyogsnBNYK7mApzaQCEscXhS2",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf150": {
+          "animals": ["-NdKwcPI3kRf75"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf151": {
+          "animals": ["-NdKwcPI3kRf76"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf152": {
+          "animals": ["-NdKwcPI3kRf77"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf153": {
+          "animals": ["-NdKwcPI3kRf78"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf154": {
+          "animals": ["-NdKwcPI3kRf79"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf155": {
+          "animals": ["-NdKwcPI3kRf80"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf156": {
+          "animals": ["-NdKwcPI3kRf81"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf157": {
+          "animals": ["-NdKwcPI3kRf82"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf158": {
+          "animals": ["-NdKwcPI3kRf83"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf159": {
+          "animals": ["-NdKwcPI3kRf84"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf160": {
+          "animals": ["-NdKwcPI3kRf85"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf161": {
+          "animals": ["-NdKwcPI3kRf86"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf162": {
+          "animals": ["-NdKwcPI3kRf87"],
+          "assignedTo": "nvSioBg8QLP4hTHiTyqZS1WCpd23",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf163": {
+          "animals": ["-NdKwcPI3kRf88"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf164": {
+          "animals": ["-NdKwcPI3kRf89"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf165": {
+          "animals": ["-NdKwcPI3kRf90"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf166": {
+          "animals": ["-NdKwcPI3kRf91"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf167": {
+          "animals": ["-NdKwcPI3kRf92"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf168": {
+          "animals": ["-NdKwcPI3kRf93"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf169": {
+          "animals": ["-NdKwcPI3kRf94"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf170": {
+          "animals": ["-NdKwcPI3kRf95"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf171": {
+          "animals": ["-NdKwcPI3kRf96"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf172": {
+          "animals": ["-NdKwcPI3kRf97"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf173": {
+          "animals": ["-NdKwcPI3kRf98"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        },
+        "-NdKwcPI3kRf174": {
+          "animals": ["-NdKwcPI3kRf99"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Clean the enclosure and provide fresh water.",
+          "expectedCompletion": "12:00 PM",
+          "priority": "Medium",
+          "status": "Pending",
+          "task": "Clean Enclosure"
+        },
+        "-NdKwcPI3kRf175": {
+          "animals": ["-NdKwcPI3kRf100"],
+          "assignedTo": "gkAV3B2iwJafyEROfmX9zDA2q123",
+          "details": "Check for any signs of illness and provide fresh feed.",
+          "expectedCompletion": "10:00 AM",
+          "priority": "High",
+          "status": "Pending",
+          "task": "Health Check"
+        }
+    },
+  "appointments": {
+    "-NdKwcPI3kRf76": {
+      "animals": [
+        "-NdKwcPI3kRf10",
+        "-NdKwcPI3kRf20"
+      ],
+      "assignedPerson": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+      "date": "2024-12-05",
+      "status": "approved",
+      "time": "10:00 AM",
+      "title": "Health Checkup"
+    },
+    "-NdKwcPI3kRf77": {
+      "animals": [
+        "-NdKwcPI3kRf16"
+      ],
+      "assignedPerson": "0HtRUOZKQHYba4awsXZEYW2T91k2",
+      "date": "2024-11-25",
+      "status": "approved",
+      "time": "11:00 AM",
+      "title": "Vaccination"
+    }
+  },
+  "inventory": {
+    "-NdKwcPI3kRf990": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf34",
+        "-NdKwcPI3kRf36"
+      ],
+      "brand": "PestGuard",
+      "description": "Praziquantel + Fenbendazole Tablet",
+      "exp": "2025-11-22",
+      "itemNo": 23,
+      "lbNo": "PFT-022",
+      "mfgDate": "2025-11-20",
+      "prQty": 3,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf101": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf38",
+        "-NdKwcPI3kRf40"
+      ],
+      "brand": "MediTech",
+      "description": "Rochester Carmalt Forceps Curved 6 1/4",
+      "exp": "2025-12-12",
+      "itemNo": 24,
+      "lbNo": "RCF-023",
+      "mfgDate": "2025-12-10",
+      "prQty": 4,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf102": {
+      "actualQty": 5,
+      "animalAssigned": [
+        "-NdKwcPI3kRf42",
+        "-NdKwcPI3kRf44"
+      ],
+      "brand": "MediSafe",
+      "description": "Scalp Vein Set Butterfly Needle Gauge 21.20s",
+      "exp": "2026-01-07",
+      "itemNo": 25,
+      "lbNo": "SVS-024",
+      "mfgDate": "2026-01-05",
+      "prQty": 5,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf103": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf46",
+        "-NdKwcPI3kRf48"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Scalpel Handle No.3",
+      "exp": "2026-02-17",
+      "itemNo": 26,
+      "lbNo": "SH-025",
+      "mfgDate": "2026-02-15",
+      "prQty": 2,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf104": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf50",
+        "-NdKwcPI3kRf52"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Spray Snooker Hook",
+      "exp": "2026-03-22",
+      "itemNo": 27,
+      "lbNo": "SSH-026",
+      "mfgDate": "2026-03-20",
+      "prQty": 3,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf105": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf54",
+        "-NdKwcPI3kRf56"
+      ],
+      "brand": "MediSafe",
+      "description": "Surgical Gloves Sterile 7.5",
+      "exp": "2026-04-12",
+      "itemNo": 28,
+      "lbNo": "SGS-027",
+      "mfgDate": "2026-04-10",
+      "prQty": 4,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf106": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf58",
+        "-NdKwcPI3kRf60"
+      ],
+      "brand": "MediSafe",
+      "description": "Tiletamine + Zolazepam 50mg/ml,5ml",
+      "exp": "2026-05-07",
+      "itemNo": 29,
+      "lbNo": "TZ-028",
+      "mfgDate": "2026-05-05",
+      "prQty": 2,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf107": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf62",
+        "-NdKwcPI3kRf64"
+      ],
+      "brand": "Keith",
+      "description": "Amoxicillin Trihydrate + Tylosin + Paracetamol 1kg",
+      "exp": "2026-06-17",
+      "itemNo": 30,
+      "lbNo": "ATBPV-033",
+      "mfgDate": "2026-06-15",
+      "prQty": 3,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf108": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf66",
+        "-NdKwcPI3kRf68"
+      ],
+      "brand": "MediTech",
+      "description": "Adson tissue forcep",
+      "exp": "2026-07-22",
+      "itemNo": 31,
+      "lbNo": "ATF-002",
+      "mfgDate": "2026-07-20",
+      "prQty": 4,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf109": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf70",
+        "-NdKwcPI3kRf72"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Double tip hook / skin retractor",
+      "exp": "2026-08-12",
+      "itemNo": 32,
+      "lbNo": "DTH-007",
+      "mfgDate": "2026-08-10",
+      "prQty": 2,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf110": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf74",
+        "-NdKwcPI3kRf5"
+      ],
+      "brand": "PestGuard",
+      "description": "Fipronil spray 100ml",
+      "exp": "2026-09-07",
+      "itemNo": 33,
+      "lbNo": "FS-008",
+      "mfgDate": "2026-09-05",
+      "prQty": 3,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf111": {
+      "actualQty": 1,
+      "animalAssigned": [
+        "-NdKwcPI3kRf10",
+        "-NdKwcPI3kRf14"
+      ],
+      "brand": "FirstAidPro",
+      "description": "First aide tacle box",
+      "exp": "2026-10-17",
+      "itemNo": 34,
+      "lbNo": "FATB-009",
+      "mfgDate": "2026-10-15",
+      "prQty": 1,
+      "unit": "Box"
+    },
+    "-NdKwcPI3kRf112": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf16",
+        "-NdKwcPI3kRf18"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Instrument tray w/cover",
+      "exp": "2026-11-22",
+      "itemNo": 35,
+      "lbNo": "ITC-012",
+      "mfgDate": "2026-11-20",
+      "prQty": 2,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf113": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf20",
+        "-NdKwcPI3kRf22"
+      ],
+      "brand": "PestGuard",
+      "description": "Ivermectin spray 60ml",
+      "exp": "2026-12-12",
+      "itemNo": 36,
+      "lbNo": "IS-013",
+      "mfgDate": "2026-12-10",
+      "prQty": 3,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf114": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf24",
+        "-NdKwcPI3kRf26"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Mayo Heger needle holder 12.5cm",
+      "exp": "2027-01-07",
+      "itemNo": 37,
+      "lbNo": "MHN-016",
+      "mfgDate": "2027-01-05",
+      "prQty": 4,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf115": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf28",
+        "-NdKwcPI3kRf30"
+      ],
+      "brand": "NutriMax",
+      "description": "Multivitamins + mineral Oral Liquid Paste 50g",
+      "exp": "2027-02-17",
+      "itemNo": 38,
+      "lbNo": "MMP-020",
+      "mfgDate": "2027-02-15",
+      "prQty": 2,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf116": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf32",
+        "-NdKwcPI3kRf34"
+      ],
+      "brand": "MediTech",
+      "description": "Rochester Carmalt Forcep curved",
+      "exp": "2027-03-22",
+      "itemNo": 39,
+      "lbNo": "RCF-023",
+      "mfgDate": "2027-03-20",
+      "prQty": 3,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf117": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf36",
+        "-NdKwcPI3kRf38"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Spay snooker hook",
+      "exp": "2027-04-12",
+      "itemNo": 40,
+      "lbNo": "SSH-026",
+      "mfgDate": "2027-04-10",
+      "prQty": 4,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf78": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf10",
+        "-NdKwcPI3kRf14"
+      ],
+      "description": "Amoxicillin Trihydrate + Tylosin + Paracetamol 1kg",
+      "exp": "2024-04-26",
+      "lbNo": "ATBPV-033",
+      "mfgDate": "2024-04-24",
+      "prQty": 4,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf79": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf16",
+        "-NdKwcPI3kRf18"
+      ],
+      "brand": "MediTech",
+      "description": "Adson Dressing Forceps fabric, 4 3/4",
+      "exp": "2024-03-17",
+      "itemNo": 2,
+      "lbNo": "ADF-001",
+      "mfgDate": "2024-03-15",
+      "prQty": 3,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf80": {
+      "actualQty": 5,
+      "animalAssigned": [
+        "-NdKwcPI3kRf20",
+        "-NdKwcPI3kRf22"
+      ],
+      "brand": "MediTech",
+      "description": "Adson tissue Forceps, 4 3/4",
+      "exp": "2024-02-22",
+      "itemNo": 3,
+      "lbNo": "ATF-002",
+      "mfgDate": "2024-02-20",
+      "prQty": 5,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf81": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf24",
+        "-NdKwcPI3kRf26"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Backhaus Towel Clamp, 5 1/4",
+      "exp": "2024-01-12",
+      "itemNo": 4,
+      "lbNo": "BTC-003",
+      "mfgDate": "2024-01-10",
+      "prQty": 2,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf82": {
+      "actualQty": 1,
+      "animalAssigned": [
+        "-NdKwcPI3kRf28",
+        "-NdKwcPI3kRf30"
+      ],
+      "brand": "MediCare",
+      "description": "Cotton Roll 400 grms",
+      "exp": "2024-05-07",
+      "itemNo": 5,
+      "lbNo": "CR-004",
+      "mfgDate": "2024-05-05",
+      "prQty": 1,
+      "unit": "Roll"
+    },
+    "-NdKwcPI3kRf83": {
+      "actualQty": 10,
+      "animalAssigned": [
+        "-NdKwcPI3kRf32",
+        "-NdKwcPI3kRf34"
+      ],
+      "brand": "MediSafe",
+      "description": "Disposable Syringe 1cc with needle",
+      "exp": "2024-06-17",
+      "itemNo": 6,
+      "lbNo": "DS-005",
+      "mfgDate": "2024-06-15",
+      "prQty": 10,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf84": {
+      "actualQty": 8,
+      "animalAssigned": [
+        "-NdKwcPI3kRf36",
+        "-NdKwcPI3kRf38"
+      ],
+      "brand": "MediSafe",
+      "description": "Disposable Syringe 3cc with needle",
+      "exp": "2024-07-22",
+      "itemNo": 7,
+      "lbNo": "DS-006",
+      "mfgDate": "2024-07-20",
+      "prQty": 8,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf85": {
+      "actualQty": 6,
+      "animalAssigned": [
+        "-NdKwcPI3kRf40",
+        "-NdKwcPI3kRf42"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Double Tip Hook / Skin Retractor",
+      "exp": "2024-08-12",
+      "itemNo": 8,
+      "lbNo": "DTH-007",
+      "mfgDate": "2024-08-10",
+      "prQty": 6,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf86": {
+      "actualQty": 7,
+      "animalAssigned": [
+        "-NdKwcPI3kRf44",
+        "-NdKwcPI3kRf46"
+      ],
+      "brand": "PestGuard",
+      "description": "Fipronil spray 100ml",
+      "exp": "2024-09-07",
+      "itemNo": 9,
+      "lbNo": "FS-008",
+      "mfgDate": "2024-09-05",
+      "prQty": 7,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf87": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf48",
+        "-NdKwcPI3kRf50"
+      ],
+      "brand": "FirstAidPro",
+      "description": "First Aide Tackle Box",
+      "exp": "2024-10-17",
+      "itemNo": 10,
+      "lbNo": "FATB-009",
+      "mfgDate": "2024-10-15",
+      "prQty": 2,
+      "unit": "Box"
+    },
+    "-NdKwcPI3kRf88": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf52",
+        "-NdKwcPI3kRf54"
+      ],
+      "brand": "MediTech",
+      "description": "Haltered Mosquito Forceps Curved 5",
+      "exp": "2024-11-22",
+      "itemNo": 11,
+      "lbNo": "HMF-010",
+      "mfgDate": "2024-11-20",
+      "prQty": 3,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf89": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf56",
+        "-NdKwcPI3kRf58"
+      ],
+      "brand": "MediTech",
+      "description": "Haltered Mosquito Forceps Straight 5",
+      "exp": "2024-12-12",
+      "itemNo": 12,
+      "lbNo": "HMS-011",
+      "mfgDate": "2024-12-10",
+      "prQty": 4,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf90": {
+      "actualQty": 1,
+      "animalAssigned": [
+        "-NdKwcPI3kRf60",
+        "-NdKwcPI3kRf62"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Instruments Tray with Cover 10.5 x 6.5 x 4",
+      "exp": "2025-01-07",
+      "itemNo": 13,
+      "lbNo": "ITC-012",
+      "mfgDate": "2025-01-05",
+      "prQty": 1,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf91": {
+      "actualQty": 5,
+      "animalAssigned": [
+        "-NdKwcPI3kRf64",
+        "-NdKwcPI3kRf66"
+      ],
+      "brand": "PestGuard",
+      "description": "Ivermectin Spray 5mg 60ml",
+      "exp": "2025-02-17",
+      "itemNo": 14,
+      "lbNo": "IS-013",
+      "mfgDate": "2025-02-15",
+      "prQty": 5,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf92": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf68",
+        "-NdKwcPI3kRf70"
+      ],
+      "brand": "MediTech",
+      "description": "Kelly Forceps Straight 5 1/2",
+      "exp": "2025-03-22",
+      "itemNo": 15,
+      "lbNo": "KFS-014",
+      "mfgDate": "2025-03-20",
+      "prQty": 2,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf93": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf72",
+        "-NdKwcPI3kRf74"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Mayo Dissector Scissor Straight 6 3/4",
+      "exp": "2025-04-12",
+      "itemNo": 16,
+      "lbNo": "MDS-015",
+      "mfgDate": "2025-04-10",
+      "prQty": 3,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf94": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf5",
+        "-NdKwcPI3kRf10"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Mayo Hegar Needle Holder 12.5cm",
+      "exp": "2025-05-07",
+      "itemNo": 17,
+      "lbNo": "MHN-016",
+      "mfgDate": "2025-05-05",
+      "prQty": 4,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf95": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf14",
+        "-NdKwcPI3kRf16"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Mayo Hegar Needle Holder 15cm",
+      "exp": "2025-06-17",
+      "itemNo": 18,
+      "lbNo": "MHN-017",
+      "mfgDate": "2025-06-15",
+      "prQty": 2,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf96": {
+      "actualQty": 1,
+      "animalAssigned": [
+        "-NdKwcPI3kRf18",
+        "-NdKwcPI3kRf20"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Mayo Stand with Tray 4 wheels stainless",
+      "exp": "2025-07-22",
+      "itemNo": 19,
+      "lbNo": "MST-018",
+      "mfgDate": "2025-07-20",
+      "prQty": 1,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf97": {
+      "actualQty": 3,
+      "animalAssigned": [
+        "-NdKwcPI3kRf22",
+        "-NdKwcPI3kRf24"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Metzenbaum Scissor Curved 7",
+      "exp": "2025-08-12",
+      "itemNo": 20,
+      "lbNo": "MSC-019",
+      "mfgDate": "2025-08-10",
+      "prQty": 3,
+      "unit": "Pcs"
+    },
+    "-NdKwcPI3kRf98": {
+      "actualQty": 4,
+      "animalAssigned": [
+        "-NdKwcPI3kRf26",
+        "-NdKwcPI3kRf28"
+      ],
+      "brand": "NutriMax",
+      "description": "Multivitamins + Minerals + oral liquid paste 200g",
+      "exp": "2025-09-07",
+      "itemNo": 21,
+      "lbNo": "MMP-020",
+      "mfgDate": "2025-09-05",
+      "prQty": 4,
+      "unit": "Bot"
+    },
+    "-NdKwcPI3kRf99": {
+      "actualQty": 2,
+      "animalAssigned": [
+        "-NdKwcPI3kRf30",
+        "-NdKwcPI3kRf32"
+      ],
+      "brand": "Surgical Tools",
+      "description": "Olsen Hegar Needle Holder Straight 5 1/2",
+      "exp": "2025-10-17",
+      "itemNo": 22,
+      "lbNo": "OHN-021",
+      "mfgDate": "2025-10-15",
+      "prQty": 2,
+      "unit": "Pcs"
+    }
+  },
+    "remarks": {
+      "-OD9KOXTwYbNg4I4G5oq": {
+        "animal_id": "-NdKwcPI3kRf5",
+        "date": "2024-12-03",
+        "remark": "African Grey Parrot is showing signs of stress. Ensure the enclosure is quiet and provide enrichment activities.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq1": {
+        "animal_id": "-NdKwcPI3kRf10",
+        "date": "2024-12-03",
+        "remark": "Bantam Chickens are healthy. Ensure they have access to fresh water and clean feed.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq2": {
+        "animal_id": "-NdKwcPI3kRf14",
+        "date": "2024-12-03",
+        "remark": "Blue-and-gold Macaw is healthy. Provide fresh fruits and vegetables as part of its diet.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq3": {
+        "animal_id": "-NdKwcPI3kRf16",
+        "date": "2024-12-03",
+        "remark": "Brahminy Kite is healthy. Ensure the enclosure is clean and free of debris.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq4": {
+        "animal_id": "-NdKwcPI3kRf18",
+        "date": "2024-12-03",
+        "remark": "Northern Cassowary is healthy. Provide fresh water and ensure the enclosure is secure.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq5": {
+        "animal_id": "-NdKwcPI3kRf20",
+        "date": "2024-12-03",
+        "remark": "Southern Cassowary is healthy. Provide fresh water and ensure the enclosure is secure.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq6": {
+        "animal_id": "-NdKwcPI3kRf22",
+        "date": "2024-12-03",
+        "remark": "Domestic Pigeons are healthy. Ensure they have access to fresh water and clean feed.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq7": {
+        "animal_id": "-NdKwcPI3kRf24",
+        "date": "2024-12-03",
+        "remark": "Egyptian Goose is healthy. Provide fresh water and ensure the enclosure is clean.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq8": {
+        "animal_id": "-NdKwcPI3kRf26",
+        "date": "2024-12-03",
+        "remark": "Guineafowl are healthy. Ensure they have access to fresh water and clean feed.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq9": {
+        "animal_id": "-NdKwcPI3kRf30",
+        "date": "2024-12-03",
+        "remark": "Fancy Chickens are healthy. Ensure they have access to fresh water and clean feed.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq10": {
+        "animal_id": "-NdKwcPI3kRf32",
+        "date": "2024-12-03",
+        "remark": "Grass Owl is healthy. Ensure the enclosure is quiet and provide enrichment activities.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq11": {
+        "animal_id": "-NdKwcPI3kRf34",
+        "date": "2024-12-03",
+        "remark": "Great White Pelican is healthy. Provide fresh water and ensure the enclosure is clean.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq12": {
+        "animal_id": "-NdKwcPI3kRf36",
+        "date": "2024-12-03",
+        "remark": "Lady Amherst’s Pheasant is healthy. Provide fresh water and ensure the enclosure is clean.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq13": {
+        "animal_id": "-NdKwcPI3kRf38",
+        "date": "2024-12-03",
+        "remark": "Large-billed Crow is healthy. Ensure the enclosure is quiet and provide enrichment activities.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq14": {
+        "animal_id": "-NdKwcPI3kRf40",
+        "date": "2024-12-03",
+        "remark": "Marsh Harrier is healthy. Ensure the enclosure is clean and free of debris.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq15": {
+        "animal_id": "-NdKwcPI3kRf42",
+        "date": "2024-12-03",
+        "remark": "Nicobar Pigeon is healthy. Provide fresh water and ensure the enclosure is clean.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq16": {
+        "animal_id": "-NdKwcPI3kRf44",
+        "date": "2024-12-03",
+        "remark": "Orange-winged Amazon Parrot is healthy. Provide fresh fruits and vegetables as part of its diet.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq17": {
+        "animal_id": "-NdKwcPI3kRf46",
+        "date": "2024-12-03",
+        "remark": "Ostrich is healthy. Ensure the enclosure is secure and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq18": {
+        "animal_id": "-NdKwcPI3kRf48",
+        "date": "2024-12-03",
+        "remark": "Peafowl are healthy. Ensure they have access to fresh water and clean feed.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq19": {
+        "animal_id": "-NdKwcPI3kRf50",
+        "date": "2024-12-03",
+        "remark": "Pekin Duck is healthy. Provide fresh water and ensure the enclosure is clean.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq20": {
+        "animal_id": "-NdKwcPI3kRf52",
+        "date": "2024-12-03",
+        "remark": "Philippine eagle-owl is healthy. Ensure the enclosure is quiet and provide enrichment activities.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq21": {
+        "animal_id": "-NdKwcPI3kRf54",
+        "date": "2024-12-03",
+        "remark": "Philippine Hawk-eagle is healthy. Ensure the enclosure is secure and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq22": {
+        "animal_id": "-NdKwcPI3kRf56",
+        "date": "2024-12-03",
+        "remark": "Philippine Serpent Eagle is healthy. Ensure the enclosure is clean and free of debris.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq23": {
+        "animal_id": "-NdKwcPI3kRf58",
+        "date": "2024-12-03",
+        "remark": "Red-golden Pheasant is healthy. Provide fresh water and ensure the enclosure is clean.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq24": {
+        "animal_id": "-NdKwcPI3kRf60",
+        "date": "2024-12-03",
+        "remark": "Rufous Hornbill is healthy. Provide fresh fruits and vegetables as part of its diet.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq25": {
+        "animal_id": "-NdKwcPI3kRf62",
+        "date": "2024-12-03",
+        "remark": "Rufous Ninht Heron is healthy. Ensure the enclosure is clean and free of debris.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq26": {
+        "animal_id": "-NdKwcPI3kRf64",
+        "date": "2024-12-03",
+        "remark": "Silver Pheasant is healthy. Provide fresh water and ensure the enclosure is clean.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq27": {
+        "animal_id": "-NdKwcPI3kRf66",
+        "date": "2024-12-03",
+        "remark": "Tarictic Hornbill is healthy. Provide fresh fruits and vegetables as part of its diet.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq28": {
+        "animal_id": "-NdKwcPI3kRf68",
+        "date": "2024-12-03",
+        "remark": "Whistling Duck is healthy. Ensure the enclosure is clean and free of debris.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq29": {
+        "animal_id": "-NdKwcPI3kRf70",
+        "date": "2024-12-03",
+        "remark": "White-breasted Sea Eagle is healthy. Ensure the enclosure is secure and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq30": {
+        "animal_id": "-NdKwcPI3kRf72",
+        "date": "2024-12-03",
+        "remark": "Yellow-golden Peasant is healthy. Provide fresh water and ensure the enclosure is clean.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq31": {
+        "animal_id": "-NdKwcPI3kRf74",
+        "date": "2024-12-03",
+        "remark": "Yokohama Chicken is healthy. Ensure they have access to fresh water and clean feed.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq32": {
+        "animal_id": "-NdKwcPI3kRf75",
+        "date": "2024-12-03",
+        "remark": "Hedgehog is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq33": {
+        "animal_id": "-NdKwcPI3kRf76",
+        "date": "2024-12-03",
+        "remark": "Long-tailed Macaque/Monkey is healthy. Provide fresh water and ensure the enclosure is secure.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq34": {
+        "animal_id": "-NdKwcPI3kRf77",
+        "date": "2024-12-03",
+        "remark": "Miniature Horse is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq35": {
+        "animal_id": "-NdKwcPI3kRf78",
+        "date": "2024-12-03",
+        "remark": "Native Pig is healthy. Ensure they have access to fresh water and clean feed.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq36": {
+        "animal_id": "-NdKwcPI3kRf79",
+        "date": "2024-12-03",
+        "remark": "Palawan Porcupine is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq37": {
+        "animal_id": "-NdKwcPI3kRf80",
+        "date": "2024-12-03",
+        "remark": "Palm Civet is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq38": {
+        "animal_id": "-NdKwcPI3kRf81",
+        "date": "2024-12-03",
+        "remark": "Philippine Deer is healthy. Ensure the enclosure is secure and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq39": {
+        "animal_id": "-NdKwcPI3kRf82",
+        "date": "2024-12-03",
+        "remark": "Philippine Pony is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq40": {
+        "animal_id": "-NdKwcPI3kRf83",
+        "date": "2024-12-03",
+        "remark": "Rabbit is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq41": {
+        "animal_id": "-NdKwcPI3kRf84",
+        "date": "2024-12-03",
+        "remark": "Southern Luzon Giant Cloud Rat is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq42": {
+        "animal_id": "-NdKwcPI3kRf85",
+        "date": "2024-12-03",
+        "remark": "St. Croix x Domestic Sheep are healthy. Ensure they have access to fresh water and clean feed.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq43": {
+        "animal_id": "-NdKwcPI3kRf86",
+        "date": "2024-12-03",
+        "remark": "Tiger is healthy. Ensure the enclosure is secure and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq44": {
+        "animal_id": "-NdKwcPI3kRf87",
+        "date": "2024-12-03",
+        "remark": "Warty Pig is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq45": {
+        "animal_id": "-NdKwcPI3kRf88",
+        "date": "2024-12-03",
+        "remark": "Albino Burmese Python is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq46": {
+        "animal_id": "-NdKwcPI3kRf89",
+        "date": "2024-12-03",
+        "remark": "Asian Box Turtle is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq47": {
+        "animal_id": "-NdKwcPI3kRf90",
+        "date": "2024-12-03",
+        "remark": "Burmese Python is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq48": {
+        "animal_id": "-NdKwcPI3kRf91",
+        "date": "2024-12-03",
+        "remark": "Caiman, Spectacled is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq49": {
+        "animal_id": "-NdKwcPI3kRf92",
+        "date": "2024-12-03",
+        "remark": "Common Snapping Turtle is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq50": {
+        "animal_id": "-NdKwcPI3kRf93",
+        "date": "2024-12-03",
+        "remark": "Common Iguana is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq51": {
+        "animal_id": "-NdKwcPI3kRf94",
+        "date": "2024-12-03",
+        "remark": "Golden-thread Turtle is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq52": {
+        "animal_id": "-NdKwcPI3kRf95",
+        "date": "2024-12-03",
+        "remark": "Leopard Gecko is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq53": {
+        "animal_id": "-NdKwcPI3kRf96",
+        "date": "2024-12-03",
+        "remark": "Monitor Lizard is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq54": {
+        "animal_id": "-NdKwcPI3kRf97",
+        "date": "2024-12-03",
+        "remark": "Red-eared Slider Turtle is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq55": {
+        "animal_id": "-NdKwcPI3kRf98",
+        "date": "2024-12-03",
+        "remark": "Reticulated Python is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq56": {
+        "animal_id": "-NdKwcPI3kRf99",
+        "date": "2024-12-03",
+        "remark": "Sailfin Lizard is healthy. Ensure the enclosure is clean and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      },
+      "-OD9KOXTwYbNg4I4G5oq57": {
+        "animal_id": "-NdKwcPI3kRf100",
+        "date": "2024-12-03",
+        "remark": "Saltwater Crocodile is healthy. Ensure the enclosure is secure and provide fresh water.",
+        "time": "10:24 AM",
+        "timestamp": 1733192686685,
+        "type": "generalNote",
+        "user": "NhiVQi5gxkUFraimgIAFNQb364Y2",
+        "userName": "Franz V. Colambo",
+        "userRole": "HeadVet"
+      }
+    },
+  "users": {
+    "0HtRUOZKQHYba4awsXZEYW2T91k2": {
+      "email": "assistvet@example.com",
+      "name": "Paul James Rico",
+      "role": "AssistantVet"
+    },
+    "2xkLyogsnBNYK7mApzaQCEscXhS2": {
+      "email": "caretaker_a@example.com",
+      "name": "Avian Careteker",
+      "role": "CaretakerA"
+    },
+    "NhiVQi5gxkUFraimgIAFNQb364Y2": {
+      "email": "headvet@example.com",
+      "name": "Franz V. Colambo",
+      "role": "HeadVet"
+    },
+    "gkAV3B2iwJafyEROfmX9zDA2q123": {
+      "email": "caretaker_c@example.com",
+      "name": "Reptile Caretaker",
+      "role": "CaretakerC"
+    },
+    "nvSioBg8QLP4hTHiTyqZS1WCpd23": {
+      "email": "caretaker_b@example.com",
+      "name": "Mammal Caretaker",
+      "role": "CaretakerB"
+    }
+  }
+}
